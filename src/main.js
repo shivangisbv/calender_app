@@ -16,7 +16,7 @@ class MainApp extends React.Component {
         this.handleChange = this.handleChange.bind(this);
     }
     componentDidMount(){
-        axios.get(`http://my-json-server.typicode.com/shivangisbv/mockjson/db/`,{})
+        axios.get(`https://my-json-server.typicode.com/shivangisbv/mockjson/db/`,{})
         .then((res)=>{
             const members = res.data.members ;
             this.setState({
