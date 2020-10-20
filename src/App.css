@@ -1,0 +1,73 @@
+.App {
+  /* text-align: center; */
+  background-color: white;
+  color: blue;
+  height: fit-content;
+  /* background-color: #282c34; */
+}
+.container {
+  padding: 70px 0;
+  /* border: 3px solid green; */
+  text-align: center;
+}
+.text-default{
+  list-style-type: none;
+  padding-top: 20px;
+  font-size: larger;
+  text-transform: uppercase;
+ 
+ 
+}
+.title {
+  font-size: xx-large;
+  color: black;
+  text-shadow: 2px 2px blue;
+  text-transform: uppercase;
+}
+.Modalheader {
+  display: block ;
+  margin-left: auto ;
+  margin-right: auto ;
+  width: 100%;
+  background-color: rgb(11, 99, 121);
+  justify-content: center !important;
+
+}
+.Modaltitle{
+  color: rgb(9, 9, 10);
+  text-shadow: 2px 2px blue;
+  text-transform: uppercase;
+  font-size: larger;
+}
+.Modalbody{
+  background-color: cornsilk;
+  font-size: 20px ;
+}
+.list {
+  list-style-type: none;
+  padding-top: 20px;
+}
+.Firstrow{
+  color: black;
+  margin-top: 3px;
+  padding-top: 2px !important;
+
+}
+.Secondrow{
+  color: black;
+  margin: 1px;
+  padding-top: 5px !important;
+}
+.inlinestyle{
+  /* color: rgb(201, 18, 18); */
+  color: blue;
+}
+.Modalpragraph{
+  color:  blue;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  /* font-size:large !important; */
+}
+.Footersection{
+  background-color: rgb(11, 99, 121);
+}
